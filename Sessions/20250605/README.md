@@ -12,5 +12,5 @@ This is a companion page that includes links to all the references in my AI sess
 * [Power Apps Plan Designer](https://learn.microsoft.com/en-us/power-apps/maker/plan-designer/plan-designer)
 *  [Microsoft Federal Business Applications Demo Repository](https://github.com/microsoft/Federal-Business-Applications/tree/main)
   * [Copilot Studio Agent Templates for Government](https://github.com/microsoft/Federal-Business-Applications/tree/main/demos/copilot-studio-agents)
-* [
-Transforming R&D with agentic AI: Introducing Microsoft Discovery](https://azure.microsoft.com/en-us/blog/transforming-rd-with-agentic-ai-introducing-microsoft-discovery/?msockid=169ee0d647d1676808daf41446d666fa)
+* [Researcher agent in Microsoft 365 Copilot](https://techcommunity.microsoft.com/blog/microsoft365copilotblog/researcher-agent-in-microsoft-365-copilot/4397186)
+* [Transforming R&D with agentic AI: Discovery Agent](https://azure.microsoft.com/en-us/blog/transforming-rd-with-agentic-ai-introducing-microsoft-discovery/?msockid=169ee0d647d1676808daf41446d666fa)
