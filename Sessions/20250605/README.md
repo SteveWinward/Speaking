@@ -1,4 +1,4 @@
-# Microsoft DOE Symposium 2025
+# Energy Empowered Summit 2025
 This is a companion page that includes links to all the references in my AI session delivered on Thursday, June 5th.
 
 ## Connect with Me
