@@ -1,4 +1,4 @@
-# Microsoft Federal Business Applications Partner Summit
+# Microsoft Federal Partner EduTech Day
 
 This is a companion page that includes links to all of the references from my session on Thursday, June 12.
 
