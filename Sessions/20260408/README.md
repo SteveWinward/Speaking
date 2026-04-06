@@ -1,11 +1,6 @@
 # Reston Carahsoft AI Event
 This is a companion page that includes links to all the references in my Copilot session at the Carahsoft Microsoft AI event on Wednesday, April 8th.
 
-## Video Recording
-You can watch the recording of this session on the link below,
-
-[Biz Apps Summit 2025 Recording](https://youtu.be/-gP32sgew20)
-
 ## Connect with Me
 * [Steve Winward | LinkedIn](https://www.linkedin.com/in/stevewinward/)
 
