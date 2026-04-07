@@ -10,3 +10,4 @@ This is a companion page that includes links to all the references in my Copilot
 * [Microsoft Federal Business Applications Demo Repository](https://github.com/microsoft/Federal-Business-Applications/tree/main)
   * [Copilot Resources for Government](https://github.com/microsoft/Federal-Business-Applications/blob/main/whitepapers/copilot/README.md)
 * [AI Builder Prompt Building Guide](https://go.microsoft.com/fwlink/?linkid=2255775)
+* [NASA Fortran Shuttle GitHub Copilot Demo](https://github.com/SteveWinward/Fortran-JMU-Project)
