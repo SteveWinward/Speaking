@@ -12,5 +12,7 @@ This repository contains links and references to my public speaking engagements.
   * [Federal Partner EduTech Day](/Sessions/20250612/README.md)
 * Sept 18, 2025
   * [JMU CIS AI Driven Website Development](/Sessions/20250917/README.md)
+* March 11, 2026
+  * [AI Innovations Across the Microsoft Stack](/Sessions/20260311/README.md)
 * April 8, 2026
   * [Microsoft Carahsoft AI Event](/Sessions/20260408/README.md)
