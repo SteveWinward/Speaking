@@ -1,4 +1,4 @@
-# DC TiE FedGov Symposium 2026
+# TiE DC FedGov Symposium 2026
 This is a companion page that includes links to all the references in my Microsoft AI session at the Tie DC FedGov Symposium on June 17th, 2026
 
 ## Connect with Me
