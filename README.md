@@ -16,3 +16,5 @@ This repository contains links and references to my public speaking engagements.
   * [AI Innovations Across the Microsoft Stack](/Sessions/20260311/README.md)
 * April 8, 2026
   * [Microsoft Carahsoft AI Event](/Sessions/20260408/README.md)
+* June 27, 2026
+  * [TiE DC FedGov Symposium 2026](/Sessions/20260617/README.md)
